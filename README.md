@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman141/LeetCode/tree/master/0001-two-sum) |
+| [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0978-valid-mountain-array](https://github.com/Aman141/LeetCode/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
@@ -43,4 +44,16 @@ Leetcode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman141/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
