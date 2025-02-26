@@ -9,12 +9,14 @@ Leetcode solutions
 | [0001-two-sum](https://github.com/Aman141/LeetCode/tree/master/0001-two-sum) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0978-valid-mountain-array](https://github.com/Aman141/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman141/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman141/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aman141/LeetCode/tree/master/0013-roman-to-integer) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman141/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +59,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
