@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman141/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman141/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aman141/LeetCode/tree/master/0414-third-maximum-number) |
@@ -34,6 +35,7 @@ Leetcode solutions
 | [0007-reverse-integer](https://github.com/Aman141/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aman141/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aman141/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
