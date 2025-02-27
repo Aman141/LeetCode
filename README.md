@@ -42,10 +42,12 @@ Leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman141/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aman141/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Aman141/LeetCode/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman141/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Aman141/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
