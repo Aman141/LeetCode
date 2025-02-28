@@ -10,6 +10,7 @@ Leetcode solutions
 | [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman141/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Aman141/LeetCode/tree/master/0414-third-maximum-number) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -24,6 +25,7 @@ Leetcode solutions
 | [0013-roman-to-integer](https://github.com/Aman141/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Aman141/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Aman141/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
@@ -38,6 +40,7 @@ Leetcode solutions
 | [0009-palindrome-number](https://github.com/Aman141/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aman141/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +100,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
