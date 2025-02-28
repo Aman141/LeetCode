@@ -1,12 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        dct = {}
-        for i in nums:
-            if i not in dct.keys():
-                dct[i] = 1
-            else:
-                dct[i]+=1
+        count = 0
+        major = -1
 
-        for i, j in dct.items():
-            if j>=(len(nums)/2):
-                return i            
+        for i in nums:
+            if count == 0 :
+                major = i
+
+            if i == major:
+                count +=1
+
+            else:
+                count -=1
+
+        return major                         
