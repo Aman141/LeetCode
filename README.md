@@ -12,6 +12,7 @@ Leetcode solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aman141/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aman141/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Aman141/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman141/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
@@ -125,4 +126,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Aman141/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
