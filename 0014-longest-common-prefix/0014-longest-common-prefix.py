@@ -1,27 +1,30 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
 
-        ans = strs[0]
-        if ans == "":
+        if not strs:
             return ""
 
-        for st in (strs[1:]):
-            if st == "":
+        # Take the first string as the initial prefix
+        prefix = strs[0]
+        prefix_length = len(prefix)
+
+        for s in strs[1:]:
+            if not s:  # If any string is empty, return empty prefix
                 return ""
-            for j in range(len(st)):
-                if j> len(ans)-1:
-                    break
-                if st[j]==ans[j]:
-                    continue
-                else:
-                    ans = ans[:j]
-                    break
-            if ans == "":
-                return ans
-            if j == len(st)-1:
-                ans = ans[:j+1]
-        
-        return ans                
+            
+            # Compare characters one by one
+            j = 0
+            while j < prefix_length and j < len(s) and prefix[j] == s[j]:
+                j += 1
+            
+            # Update prefix length
+            prefix_length = j
+            
+            # If at any point prefix becomes empty, return immediately
+            if prefix_length == 0:
+                return ""
+
+        return prefix[:prefix_length]              
 
                
         
