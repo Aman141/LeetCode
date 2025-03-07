@@ -8,6 +8,7 @@ Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Aman141/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman141/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aman141/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aman141/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
@@ -125,6 +127,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aman141/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
