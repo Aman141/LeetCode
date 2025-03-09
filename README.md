@@ -25,6 +25,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/Aman141/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/Aman141/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -107,6 +108,7 @@ Leetcode solutions
 | [0063-unique-paths-ii](https://github.com/Aman141/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Leetcode solutions
 | [0377-combination-sum-iv](https://github.com/Aman141/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aman141/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Design
