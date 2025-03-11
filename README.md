@@ -20,6 +20,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aman141/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Aman141/LeetCode/tree/master/0414-third-maximum-number) |
@@ -103,6 +104,7 @@ Leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ Leetcode solutions
 | [0120-triangle](https://github.com/Aman141/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aman141/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aman141/LeetCode/tree/master/0518-coin-change-ii) |
