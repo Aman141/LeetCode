@@ -184,4 +184,16 @@ Leetcode solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aman141/LeetCode/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
