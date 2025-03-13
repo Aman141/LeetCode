@@ -100,10 +100,12 @@ Leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
@@ -187,6 +189,7 @@ Leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -195,5 +198,6 @@ Leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
