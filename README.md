@@ -20,6 +20,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/Aman141/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Aman141/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -120,6 +121,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman141/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
