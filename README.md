@@ -81,6 +81,7 @@ Leetcode solutions
 | [0205-isomorphic-strings](https://github.com/Aman141/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Aman141/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Leetcode solutions
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
