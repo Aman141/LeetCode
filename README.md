@@ -36,6 +36,7 @@ Leetcode solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aman141/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3639-zero-array-transformation-i](https://github.com/Aman141/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,4 +216,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Aman141/LeetCode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
