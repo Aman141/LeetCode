@@ -83,6 +83,7 @@ Leetcode solutions
 | [0058-length-of-last-word](https://github.com/Aman141/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Aman141/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aman141/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Aman141/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -109,6 +110,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -202,6 +204,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -211,6 +214,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -220,4 +224,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/Aman141/LeetCode/tree/master/3639-zero-array-transformation-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
