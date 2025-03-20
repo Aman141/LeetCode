@@ -1,12 +1,9 @@
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        min_distance = 1000000
-        ans = nums[0]
-        for i in nums:
-            if abs(i)<min_distance :
-                min_distance = abs(i)
-                ans = i
-            if abs(i)==min_distance:
-                if i>ans:
-                    ans = i
-        return ans
+        closest = float('inf')
+        
+        for num in nums:
+            if abs(num) < abs(closest) or (abs(num) == abs(closest) and num > closest):
+                closest = num
+                
+        return closest
