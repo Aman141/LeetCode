@@ -20,6 +20,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aman141/LeetCode/tree/master/0213-house-robber-ii) |
+| [0228-summary-ranges](https://github.com/Aman141/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Aman141/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
