@@ -123,12 +123,14 @@ Leetcode solutions
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+| [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+| [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Leetcode solutions
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Leetcode solutions
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
