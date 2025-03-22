@@ -3,12 +3,10 @@ class Solution:
         dct = {}
 
         for i in range(len(nums)):
-            if nums[i] not in dct:
-                dct[nums[i]] = i
-            else:
-                if abs(dct[nums[i]]-i)<=k:
-                    return True
-                if abs(dct[nums[i]]-i)>k:
-                   dct[nums[i]] = i
+            if nums[i] in dct:
+                return True
+            dct[nums[i]] = i
+            if len(dct)>k:
+                del dct[nums[i-k]]
 
         return False                    
