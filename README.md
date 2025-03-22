@@ -21,6 +21,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aman141/LeetCode/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Aman141/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Aman141/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Aman141/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
@@ -50,6 +51,7 @@ Leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aman141/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Aman141/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Aman141/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -118,6 +120,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman141/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Aman141/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Depth-First Search
 |  |
 | ------- |
