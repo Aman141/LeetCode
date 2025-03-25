@@ -75,6 +75,7 @@ Leetcode solutions
 | [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aman141/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aman141/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -269,4 +270,12 @@ Leetcode solutions
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aman141/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Aman141/LeetCode/tree/master/0182-duplicate-emails) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
