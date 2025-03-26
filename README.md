@@ -27,6 +27,7 @@ Leetcode solutions
 | [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Aman141/LeetCode/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Aman141/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Aman141/LeetCode/tree/master/0414-third-maximum-number) |
@@ -53,6 +54,7 @@ Leetcode solutions
 | [0205-isomorphic-strings](https://github.com/Aman141/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aman141/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Aman141/LeetCode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -114,6 +116,7 @@ Leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman141/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aman141/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -151,6 +154,7 @@ Leetcode solutions
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman141/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -158,6 +162,7 @@ Leetcode solutions
 | [0088-merge-sorted-array](https://github.com/Aman141/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aman141/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Aman141/LeetCode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Aman141/LeetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Aman141/LeetCode/tree/master/1137-height-checker) |
