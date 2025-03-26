@@ -38,6 +38,7 @@ Leetcode solutions
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/Aman141/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Aman141/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-height-checker](https://github.com/Aman141/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -83,6 +84,7 @@ Leetcode solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Aman141/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Aman141/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2383-add-two-integers](https://github.com/Aman141/LeetCode/tree/master/2383-add-two-integers) |
 ## Recursion
