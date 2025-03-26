@@ -81,6 +81,7 @@ Leetcode solutions
 | [0168-excel-sheet-column-title](https://github.com/Aman141/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Aman141/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2383-add-two-integers](https://github.com/Aman141/LeetCode/tree/master/2383-add-two-integers) |
@@ -104,6 +105,7 @@ Leetcode solutions
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Aman141/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Aman141/LeetCode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
@@ -288,4 +290,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
