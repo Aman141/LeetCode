@@ -46,6 +46,7 @@ Leetcode solutions
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/Aman141/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aman141/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aman141/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3639-zero-array-transformation-i](https://github.com/Aman141/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
