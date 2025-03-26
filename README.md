@@ -41,6 +41,7 @@ Leetcode solutions
 | [1031-add-to-array-form-of-integer](https://github.com/Aman141/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-height-checker](https://github.com/Aman141/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/Aman141/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aman141/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -60,6 +61,7 @@ Leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
@@ -206,6 +208,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 ## Randomized
 |  |
 | ------- |
@@ -296,4 +299,5 @@ Leetcode solutions
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
+| [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
