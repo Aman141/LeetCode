@@ -112,6 +112,7 @@ Leetcode solutions
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Aman141/LeetCode/tree/master/0812-rotate-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -307,4 +308,8 @@ Leetcode solutions
 | ------- |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
