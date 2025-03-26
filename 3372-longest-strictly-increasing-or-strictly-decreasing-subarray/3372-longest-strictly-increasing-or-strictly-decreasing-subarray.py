@@ -14,13 +14,13 @@ class Solution:
                 curr_inc += 1
                 max_len_dec = max(max_len_dec, curr_dec)
                 curr_dec = 1
-            else:
-                max_len_inc = max(max_len_inc, curr_inc)
-                max_len_dec = max(max_len_dec, curr_dec)   
+            else: 
                 curr_dec = 1
-                curr_inc = 1    
-        max_len_inc = max(max_len_inc, curr_inc)
-        max_len_dec = max(max_len_dec, curr_dec)            
+                curr_inc = 1
+     
+            max_len_inc = max(max_len_inc, curr_inc)
+            max_len_dec = max(max_len_dec, curr_dec)            
+        
         return max(max_len_dec, max_len_inc)        
 
 
