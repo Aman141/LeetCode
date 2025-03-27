@@ -143,6 +143,7 @@ Leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aman141/LeetCode/tree/master/0112-path-sum) |
@@ -255,6 +256,7 @@ Leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -273,6 +275,7 @@ Leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -316,5 +319,6 @@ Leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
