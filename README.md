@@ -88,6 +88,7 @@ Leetcode solutions
 | [0070-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aman141/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Aman141/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
@@ -176,6 +177,7 @@ Leetcode solutions
 | [0275-h-index-ii](https://github.com/Aman141/LeetCode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman141/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Aman141/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Aman141/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
