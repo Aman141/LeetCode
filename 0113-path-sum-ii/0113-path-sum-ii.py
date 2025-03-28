@@ -12,18 +12,12 @@ class Solution:
                 return [[root.val]]
 
         ans = []
-        targetSum -= root.val
 
-        a = self.pathSum(root.left, targetSum)
-        for lst in a:
-            if len(lst)!=0:
-                lst = [root.val]+lst
-                ans.append(lst)
-        a = self.pathSum(root.right, targetSum)
-        for lst in a:
-            if len(lst)!=0:
-                lst = [root.val]+lst
-                ans.append(lst)
+        for tree in (root.left, root.right):
+            a = self.pathSum(tree, targetSum-root.val)
+            for lst in a:
+                ans.append([root.val]+lst)
+
         return ans
 
         
