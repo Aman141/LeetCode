@@ -289,6 +289,7 @@ Leetcode solutions
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Aman141/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -317,6 +318,7 @@ Leetcode solutions
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Aman141/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Bit Manipulation
 |  |
