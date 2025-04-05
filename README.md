@@ -159,6 +159,7 @@ Leetcode solutions
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -286,6 +287,7 @@ Leetcode solutions
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -294,6 +296,7 @@ Leetcode solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,6 +315,7 @@ Leetcode solutions
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Bit Manipulation
@@ -350,6 +354,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
