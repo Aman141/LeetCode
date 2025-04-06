@@ -161,6 +161,7 @@ Leetcode solutions
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Aman141/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aman141/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -291,6 +292,7 @@ Leetcode solutions
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Aman141/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aman141/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Aman141/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -321,6 +323,7 @@ Leetcode solutions
 | [0904-leaf-similar-trees](https://github.com/Aman141/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Aman141/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Aman141/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aman141/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Aman141/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Aman141/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
