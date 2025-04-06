@@ -5,30 +5,24 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
-        def helper(root)->list:
-            if not root:
-                return []
-            if not root.left and not root.right: return [[root.val]]
+        def dfs(node, current):
+            if not node:
+                return 0
 
-            ans = []
+            current = (current << 1) | node.val
 
-            left_tree = helper(root.left)
-            right_tree = helper(root.right)
+            if not node.left and not node.right:
+                return current
 
-            for lst in left_tree:
-                ans.append(lst + [root.val])
+            return dfs(node.left, current) + dfs(node.right, current)
 
-            for lst in right_tree:
-                ans.append(lst + [root.val])
+        return dfs(root, 0)
 
-            return ans
-        
-        ans = helper(root)
-        decimal_values = [int("".join(map(str, b[::-1])), 2) for b in ans]
+    
 
 
-        return sum(decimal_values)
 
         
 
