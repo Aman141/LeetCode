@@ -37,6 +37,7 @@ Leetcode solutions
 | [0713-subarray-product-less-than-k](https://github.com/Aman141/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -64,6 +65,7 @@ Leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/Aman141/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -74,6 +76,7 @@ Leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman141/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
@@ -236,6 +239,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 | [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 ## Randomized
@@ -369,4 +373,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
