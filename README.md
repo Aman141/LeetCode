@@ -74,6 +74,7 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman141/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman141/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Aman141/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
