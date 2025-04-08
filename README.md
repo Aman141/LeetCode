@@ -80,6 +80,7 @@ Leetcode solutions
 | [0141-linked-list-cycle](https://github.com/Aman141/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aman141/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Aman141/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
@@ -108,6 +109,7 @@ Leetcode solutions
 | [0002-add-two-numbers](https://github.com/Aman141/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aman141/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Aman141/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Aman141/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
