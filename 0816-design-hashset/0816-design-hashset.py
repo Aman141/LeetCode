@@ -1,46 +1,59 @@
-class Node:
-    def __init__(self, val=0, next= None):
-        self.val = val
-        self.next = next
-
 class MyHashSet:
 
     def __init__(self):
-        self.head = None
-        
+        self.capacity = 8
+        self.size = 0
+        self.table = [None]*self.capacity
+        self.deleted = object()
+
+    def _hash(self, key:int) -> int:
+        return key % self.capacity        
+
+    def _probe(self, key:int) -> int:
+        index = self._hash(key)
+        while self.table[index] is not None and self.table[index]!=key:
+            index = (index + 1)% self.capacity
+
+        return index    
+
+    def _rehash(self) ->None:
+        old_table = self.table
+        self.capacity *= 2
+        self.table = [None]*self.capacity
+        self.size = 0
+        for item in old_table:
+            if item is not None and item is not self.deleted:
+                self.add(item)
 
     def add(self, key: int) -> None:
-        if self.contains(key):
-            return 
-        if not self.head:
-            self.head = Node(val=key)
-        else:
-            curr = self.head
-            while curr.next:
-                curr = curr.next
-
-            curr.next = Node(val = key)            
-        
+        if self.size / self.capacity >= 0.7:
+            self._rehash()
+        index = self._probe(key)
+        if self.table[index]!=key:
+            self.table[index]=key
+            self.size +=1
 
     def remove(self, key: int) -> None:
-        if self.head and self.head.val == key:
-            self.head = self.head.next
-            return
+        index = self._hash(key)
+        while self.table[index] is not None:
+            if self.table[index] == key:
+                self.table[index] = self.deleted
+                self.size -=1
+                return
 
-        curr = self.head
-        while curr and curr.next:
-            if curr.next.val == key:
-                curr.next = curr.next.next
-                return 
-            curr = curr.next
-    def contains(self, key: int) -> bool:
-        curr = self.head
-        while curr:
-            if curr.val == key:
-                return True
-            curr = curr.next
-        return False          
+            index = (index + 1)%self.capacity    
+
         
+
+    def contains(self, key: int) -> bool:
+        index = self._hash(key)
+        while self.table[index] is not None:
+            if self.table[index] == key:
+                return True
+
+            index = (index + 1)%self.capacity  
+
+        return False
 
 
 # Your MyHashSet object will be instantiated and called as such:
