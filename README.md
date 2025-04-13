@@ -85,6 +85,7 @@ Leetcode solutions
 | [0206-reverse-linked-list](https://github.com/Aman141/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Aman141/LeetCode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/Aman141/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman141/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -254,6 +255,7 @@ Leetcode solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Aman141/LeetCode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/Aman141/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 | [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 ## Randomized
