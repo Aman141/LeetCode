@@ -254,6 +254,7 @@ Leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aman141/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Aman141/LeetCode/tree/master/0817-design-hashmap) |
@@ -388,11 +389,13 @@ Leetcode solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman141/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/Aman141/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aman141/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Function
 |  |
