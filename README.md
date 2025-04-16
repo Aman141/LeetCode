@@ -79,6 +79,7 @@ Leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aman141/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aman141/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman141/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Aman141/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aman141/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -169,6 +170,7 @@ Leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aman141/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aman141/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman141/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Aman141/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -303,6 +305,7 @@ Leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aman141/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aman141/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman141/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Aman141/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -334,6 +337,7 @@ Leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aman141/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aman141/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman141/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Aman141/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Aman141/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Aman141/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -383,6 +387,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman141/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/Aman141/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Queue
