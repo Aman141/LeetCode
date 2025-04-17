@@ -84,6 +84,7 @@ Leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Aman141/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aman141/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aman141/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Aman141/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Aman141/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Aman141/LeetCode/tree/master/0838-design-linked-list) |
