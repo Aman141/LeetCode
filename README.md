@@ -110,6 +110,7 @@ Leetcode solutions
 | [1013-fibonacci-number](https://github.com/Aman141/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aman141/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Aman141/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Aman141/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/Aman141/LeetCode/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -139,6 +140,7 @@ Leetcode solutions
 | [0812-rotate-string](https://github.com/Aman141/LeetCode/tree/master/0812-rotate-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Aman141/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Two Pointers
 |  |
 | ------- |
