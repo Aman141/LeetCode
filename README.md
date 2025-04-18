@@ -41,6 +41,7 @@ Leetcode solutions
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Aman141/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Aman141/LeetCode/tree/master/0860-design-circular-queue) |
+| [0861-flipping-an-image](https://github.com/Aman141/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/Aman141/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -164,6 +165,7 @@ Leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aman141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Aman141/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0861-flipping-an-image](https://github.com/Aman141/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Aman141/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Aman141/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aman141/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -216,6 +218,7 @@ Leetcode solutions
 | [0063-unique-paths-ii](https://github.com/Aman141/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
+| [0861-flipping-an-image](https://github.com/Aman141/LeetCode/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Aman141/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
@@ -374,6 +377,7 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Aman141/LeetCode/tree/master/0861-flipping-an-image) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aman141/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Prefix Sum
 |  |
@@ -402,6 +406,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/Aman141/LeetCode/tree/master/0861-flipping-an-image) |
 | [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
 ## Stack
 |  |
