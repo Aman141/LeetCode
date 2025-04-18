@@ -51,6 +51,7 @@ Leetcode solutions
 | [2350-find-closest-number-to-zero](https://github.com/Aman141/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aman141/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aman141/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Aman141/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3639-zero-array-transformation-i](https://github.com/Aman141/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@ Leetcode solutions
 | [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Aman141/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Aman141/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Aman141/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
 |  |
 | ------- |
@@ -414,4 +416,8 @@ Leetcode solutions
 | ------- |
 | [0816-design-hashset](https://github.com/Aman141/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Aman141/LeetCode/tree/master/0817-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/Aman141/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
