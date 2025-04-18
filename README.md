@@ -113,6 +113,7 @@ Leetcode solutions
 | [1236-n-th-tribonacci-number](https://github.com/Aman141/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Aman141/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/Aman141/LeetCode/tree/master/2383-add-two-integers) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Aman141/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Leetcode solutions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Aman141/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Aman141/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Aman141/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Two Pointers
 |  |
 | ------- |
