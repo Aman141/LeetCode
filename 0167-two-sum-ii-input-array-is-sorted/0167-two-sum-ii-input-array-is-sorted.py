@@ -1,12 +1,15 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        s = {}
+        a = 0
+        b = len(numbers)-1
 
-        for i in range(len(numbers)):
-            a = (target-numbers[i])
-            if a in s.keys():
-                return sorted([i+1, s[a]])
+        while(a<=b):
+            if numbers[a]+numbers[b]==target:
+                return a+1,b+1
+            elif numbers[a]+numbers[b]<target:   
+                a +=1
+
             else:
-                s[numbers[i]] = i+1    
+                b -=1
 
-        return 
+        return -1              
