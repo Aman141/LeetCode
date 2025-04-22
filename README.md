@@ -141,6 +141,7 @@ Leetcode solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/Aman141/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Aman141/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Aman141/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Aman141/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Aman141/LeetCode/tree/master/0812-rotate-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aman141/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
