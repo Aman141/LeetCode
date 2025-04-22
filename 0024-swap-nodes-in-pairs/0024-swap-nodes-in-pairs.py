@@ -6,23 +6,23 @@
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next: return head
-        ans = head.next        
         def swapPair(first, second):
             first.next = second.next
             second.next = first
 
             return first,second
 
-        prev = ListNode(-1)
+        dummy = ListNode(-1)
+        dummy.next = head
+        prev = dummy
         first = head
-        second = head.next
-        while first and second:
+        while first and first.next:
+            second = first.next
             first,second = swapPair(first,second)
             prev.next = second
             prev = first
 
             first = prev.next
-            if first:
-                second = first.next
 
-        return ans   
+
+        return dummy.next   
