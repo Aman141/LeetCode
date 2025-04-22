@@ -13,21 +13,16 @@ class Solution:
 
             return first,second
 
-        temp = ListNode(-1)
+        prev = ListNode(-1)
         first = head
         second = head.next
-        while True:
+        while first and second:
             first,second = swapPair(first,second)
-            temp.next = second
-            temp = first
-            if first.next and first.next.next:
-                first = first.next
+            prev.next = second
+            prev = first
+
+            first = prev.next
+            if first:
                 second = first.next
-
-
-            else:
-                break    
-
-            
 
         return ans   
