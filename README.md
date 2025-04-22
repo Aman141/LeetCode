@@ -106,6 +106,7 @@ Leetcode solutions
 | [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aman141/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/Aman141/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Aman141/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aman141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -405,6 +406,7 @@ Leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aman141/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aman141/LeetCode/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Aman141/LeetCode/tree/master/0861-flipping-an-image) |
 | [2169-simple-bank-system](https://github.com/Aman141/LeetCode/tree/master/2169-simple-bank-system) |
@@ -435,4 +437,8 @@ Leetcode solutions
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/Aman141/LeetCode/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/Aman141/LeetCode/tree/master/1203-print-in-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aman141/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
