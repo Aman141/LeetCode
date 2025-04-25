@@ -107,6 +107,7 @@ Leetcode solutions
 | [0062-unique-paths](https://github.com/Aman141/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aman141/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Aman141/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Aman141/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Aman141/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Aman141/LeetCode/tree/master/0292-nim-game) |
@@ -266,6 +267,7 @@ Leetcode solutions
 | [0063-unique-paths-ii](https://github.com/Aman141/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aman141/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aman141/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Aman141/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Aman141/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aman141/LeetCode/tree/master/0198-house-robber) |
@@ -326,6 +328,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Aman141/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aman141/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -352,6 +355,7 @@ Leetcode solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aman141/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -360,6 +364,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman141/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Aman141/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Aman141/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aman141/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aman141/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
